@@ -10,7 +10,7 @@ The dataset consists of polarization mosaics captured using a Division of Focal 
 
 The dataset can be downloaded from the following link:
 
-👉 [**Google Drive Download Link**]([https://drive.google.com/your-dataset-link-here](https://drive.google.com/file/d/1QGJEMkWj7I7iNp6OvTq-EZDU1uRgkkqS/view?usp=drive_link))
+👉 [**Google Drive Download Link**](https://drive.google.com/file/d/1QGJEMkWj7I7iNp6OvTq-EZDU1uRgkkqS/view?usp=drive_link)
 
 
 ---
